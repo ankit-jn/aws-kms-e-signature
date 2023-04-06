@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "aws-kms-e-signature"
+version = "0.1.0"
+description = ""
+authors = ["Ankit Jain <ankii.jain@gmail.com>"]
+readme = "README.md"
+packages = [{include = "aws_kms_e_signature"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+boto3 = "^1.26.103"
+pytest = "^7.2.2"
+pyjwt = "^2.6.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
