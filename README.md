@@ -59,8 +59,8 @@ python.exe .\signature.py
 
 ### Output Footprints
 
-<img src="https://github.com/arjstack/aws-kms-e-signature/blob/main/output.png">
+<img src="https://github.com/ankit-jn/aws-kms-e-signature/blob/main/output.png">
 
 ### Authors
 
-Module is maintained by [Ankit Jain](https://github.com/ankit-jn) with help from [these professional](https://github.com/arjstack/aws-kms-e-signature/graphs/contributors).
+Module is maintained by [Ankit Jain](https://github.com/ankit-jn) with help from [these professional](https://github.com/ankit-jn/aws-kms-e-signature/graphs/contributors).
